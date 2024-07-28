@@ -1,4 +1,4 @@
-# Population and Demographics Analysis Using SQL
+# Indian Census Population and Demographics Analysis  Using SQL
 
 ## Overview
 
